@@ -3,5 +3,7 @@ public class test {
 
         System.out.println("初始化操作....");
 
+        System.out.println("dev初始化操作....");
+
     }
 }

@@ -5,5 +5,7 @@ public class test {
 
         System.out.println("dev初始化操作....");
 
+        System.out.println("主干初始化操作的提交....");
+
     }
 }
